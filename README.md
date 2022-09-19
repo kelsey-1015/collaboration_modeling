@@ -1,7 +1,7 @@
 ## Description
 * This repository includes scripts in chapter 2- Select infrastructures with collaboration relationship modelling
 * The work was published in https://ieeexplore.ieee.org/abstract/document/8779607
-* The results data to generate the figures is available at https://drive.google.com/drive/folders/1TXb97KjimLzzij3W2mYX9-OhzBrM78FA?usp=sharing
+* The results data to generate the figures is available at https://doi.org/10.5281/zenodo.7094299
 
 # Main scripts description
 * archetype_database.py --> generate 3D matrics of DL4LD archetypes of given dimension
